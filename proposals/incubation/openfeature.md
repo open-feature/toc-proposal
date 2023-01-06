@@ -18,6 +18,10 @@ The OpenFeature project is currently looking for a TOC sponsor
 
 ## Progress Since Sandbox
 
+OpenFeature was accepted into the CNCF Sandbox on [June 14th, 2022](https://lists.cncf.io/g/cncf-toc/message/4853).
+
+[Stars and forks](https://openfeature.devstats.cncf.io/d/3/stars-and-forks-by-repository?orgId=1&viewPanel=12)
+
 ### Community
 
 **Outreach:** As a project we hold regular community meetings each month, highlighting what is happening in the community with presentations from multiple adopters and discussions on current topics and interests in the community. Community sessions have on average **12 attendees**, are uploaded to a [Project meeting playlist hosted on Youtube](<[https://www.youtube.com/watch?v=3dV3aZo6JN8&list=PLf1KFlSkDLIBmA5TLXn2BzEHmwWzckP8y](https://www.youtube.com/playlist?list=PLiQt8D1ofl8zR0u5kzFjrX_U4rGteyOVa)>) and gained **over 750 views**.
