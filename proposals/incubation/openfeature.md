@@ -26,6 +26,68 @@ The OpenFeature project is currently looking for a TOC sponsor
 - [OpenFeature Community on Slack](https://cloud-native.slack.com/archives/C0344AANLA1)
 
 The community statistics are extracted from [CNCF devstats](https://openfeature.devstats.cncf.io/).
+<table>
+  <tr>
+   <td><strong>Type</strong>
+   </td>
+   <td><strong>Until Sandbox</strong>
+   </td>
+   <td><strong>In 2022 post sandbox</strong>
+   </td>
+   <td><strong>Current Total</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>Adopters
+   </td>
+   <td>0
+   </td>
+   <td>7
+   </td>
+   <td>8
+   </td>
+  </tr>
+  <tr>
+   <td>Commits
+   </td>
+   <td>524
+   </td>
+   <td>4549
+   </td>
+   <td>5483
+   </td>
+  </tr>
+  <tr>
+   <td>Pull Requests
+   </td>
+   <td>132
+   </td>
+   <td>1186
+   </td>
+   <td>1412
+   </td>
+  </tr>
+  <tr>
+   <td>Contributions
+   </td>
+   <td>36,710
+   </td>
+   <td>27,140
+   </td>
+   <td>77,430
+   </td>
+  </tr>
+  <tr>
+   <td>Forks
+   </td>
+   <td>7
+   </td>
+   <td>24
+   </td>
+   <td>24
+   </td>
+  </tr>
+</table>
 
 ### Technical
 
