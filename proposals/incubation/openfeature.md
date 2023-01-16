@@ -47,6 +47,16 @@ As an existing Sandbox project this is already in place
 
 ### **_Demonstrate a substantial ongoing flow of commits and merged contributions._**
 
+* [Commit Activity](https://openfeature.devstats.cncf.io/d/74/contributions-chart?orgId=1&from=1635721200000&to=1673909999000&var-period=m&var-metric=contributions&var-repogroup_name=All&var-country_name=All&var-company_name=All&var-company=all) 
+    * In May 2022 there were a total of 255 contributions from 31 contributors.
+    * In January 2023 there are a total of 1190 contributions from 69 total contributors to the project. 
+* [New Contributors over past year](https://openfeature.devstats.cncf.io/d/52/new-contributors-table?orgId=1&from=now-1y&to=now)
+    * On average we have 5 new contributors joining each month
+* There are on average 49 new PRs from non-maintainers on the project per week
+* In the last 30 days the average time to close PRs was less than 24 hours
+
+Full details can be found at [CNCF devstats](https://openfeature.devstats.cncf.io/) dashboards for OpenFeature.
+
 ### **_Security_**
 
 ## Statement on Alignment with the CNCF Mission
