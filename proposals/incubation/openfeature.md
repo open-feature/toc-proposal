@@ -117,7 +117,7 @@ Full details can be found at [CNCF devstats](https://openfeature.devstats.cncf.i
 
 ### **_Security_**
 
-Security processes are documented [here](https://github.com/open-feature/.github/blob/main/SECURITY.md)
+Security processes are documented [here](https://github.com/open-feature/community/security/policy)
 
 ## Statement on Alignment with the CNCF Mission
 
