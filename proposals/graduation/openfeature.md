@@ -43,7 +43,7 @@ Project governance including granting and revoking rights, expectations, and vot
 Maintainers may be removed after 3 months of inactivity and are removed based on the process outlined in the [Contributor ladder](https://github.com/open-feature/community/blob/main/CONTRIBUTOR_LADDER.md). Those removed will be changed to emeritus in the [community-members.md](https://github.com/open-feature/community/blob/main/community-members.md)
 
 ### * Have a public list of Project adopters for at least the primary repo (e.g., ADOPTERS.md or logos on the Project website). For a specification, have a list of adopters for the implementation(s) of the spec. Refer to [FAQs](https://github.com/cncf/toc/blob/main/FAQ.md#what-is-the-definition-of-an-adopter) for guidelines on identifying adopters.
-See the [Adopter.md](https://github.com/open-feature/community/blob/main/ADOPTERS.md) in the community repository.
+See the [Adopters.md](https://github.com/open-feature/community/blob/main/ADOPTERS.md) in the community repository.
 ## Incubation Details
 _**Project should address each area listed below**_
 OpenFeature was accepted as an [Incubation level project](https://github.com/cncf/toc/blob/main/proposals/incubation/openfeature.md) in December 2023. There are no outstanding issues raised during the incubation due diligence that remain to be addressed.
