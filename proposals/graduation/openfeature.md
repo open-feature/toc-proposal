@@ -1,23 +1,23 @@
-# [Project] Graduation Proposal
+# OpenFeature Graduation Proposal
 
 [OpenFeature](https://openfeature.dev) is an open specification for feature flag management, created to support a robust feature flag ecosystem using cloud-native technologies. OpenFeature provides a unified API and SDK, and a developer-first, cloud native implementation, with extensibility for open source and commercial offerings.
 
-## Evaluation API
+### Evaluation API
 The Evaluation API is the primary component of OpenFeature that application authors interact with. The Evaluation API allows developers to evaluate feature flags to alter control flow and application characteristics.
 
-## Providers
+### Providers
 Providers are responsible for performing flag evaluations. They provide an abstraction between the underlying flag management system and the OpenFeature SDK. Providers can wrap a vendor SDK, call a bespoke flag evaluation REST API, or even parse some locally stored file to resolve flag values. This allows the underlying flag evaluation logic to be changed without requiring major code refactoring. An application integrator can register one provider at a time. Registering an additional provider will override any previously configured providers. If no provider is set, OpenFeature will no-op and return the default value passed to the Evaluation API. Providers are set through the Evaluation API. They're globally registered, and a change affects both new and existing OpenFeature clients.
 
-## Evaluation Context
+### Evaluation Context
 The evaluation context is a container for arbitrary contextual data that can be used as a basis for dynamic evaluation. Static data, such as the host or an identifier for the application, can be configured globally. Dynamic evaluation context, such as the IP address of the client in a web application, can be implicitly propagated or explicitly passed to during flag evaluation and can be merged with static values.
 
-## Hooks
+### Hooks
 Hooks are a mechanism that allows for the addition of arbitrary behavior at well-defined points of the flag evaluation lifecycle. Use cases include validation of the resolved flag value, modifying or adding data to the evaluation context, logging, telemetry, and tracking.
 
-## Events
+### Events
 Events enable the ability to react to state changes in the provider or underlying flag management system. These include changes in provider readiness, error status, or, perhaps most interestingly, flag configuration changes.
 
-## FlagD
+### FlagD
 Flagd is a feature flag daemon with a Unix philosophy. Think of it as a ready-made, open source, OpenFeature compliant feature flag backend system.
 
 OpenFeature's repositories have ~1500 GitHub stars and 248 contributors and 370+ users registered for the OpenFeature community Slack. OpenFeature was open sourced in 2021, and joined the CNCF at Sandbox level in May 2022 and then reached incubation status in December 2023. It is currently used in production at scale all around the world, by many companies including at Codecentric, Dynatrace, Ebay, Proofpoint, Schweitzer Engineering Labs, Tapico, Utility Warehouse, Virtru and many more. It is also offered as a solution by a number of Feature Flag Vendors such as Cloudbees, ConfigCat, Devcycle, Featbit, Flagsmith, Flipt, GO Feature Flag, Harness, LaunchDarkly, PostHog, Split, Unleash.
