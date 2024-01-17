@@ -189,11 +189,11 @@ Examples include:
 
 - Formation of the TAG follows the [documented process][tagform].
 - [Roles][tagroles] for TAG Observability
-  - TOC Liaison: Lei Zhang, Cathy Zhang
+  - TOC Liaison: Cathy Zhang, Ricardo Rocha
   - TAG Chairs:
+    - [Alolita Sharma] [alolita]
     - [Matthew Young][matthew young]
     - [Richard Hartmann][Richard Hartmann]
-    - TBD
   - Tech Leads ([definition][tagtldefinition], [TL election][tagtlprocess])
     - Bartłomiej Płotka
     - TBD more
