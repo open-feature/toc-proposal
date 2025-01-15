@@ -1,22 +1,23 @@
-# CNCF Cloud Native Definition v1.0 #
+# CNCF Cloud Native Definition v1.1 #
 
-*Approved by TOC: 2018-06-11*
+*Approved by TOC/GB: 2024-02-26*
 
-[العربية](#العربية) (Arabic) | [中文版本](#中文版本) (Chinese) |  [עברית](#עברית) (Hebrew) | [日本語版](#日本語版) (Japanese) | [한국어](#한국어) (Korean) | [Deutsch](#deutsch) (German) | [Español](#español) (Spanish)  
-[Français](#français) (French) | [Polski](#polski) (Polish) | [Português Brasileiro](#português-brasileiro) (Portuguese-BR) | [Português de Portugal](#português-de-portugal) (Portuguese-PT) | [Русский](#русский) (Russian) | [Bahasa Indonesia](#bahasa-indonesia) (Indonesian) | [Türkçe](#türkçe) (Turkish) | [Български](#български) (Bulgarian) | [ไทย](#ไทย) (Thai) | [Magyar](#magyar) (Hungarian) | [Hindi](#हिन्दी) (Indian) | [Nederlands](#nederlands) (Dutch)
+[العربية](#العربية) (Arabic) | [հայերեն](#հայերեն) (Armenian) | [中文版本](#中文版本) (Chinese) |  [עברית](#עברית) (Hebrew) | [日本語版](#日本語版) (Japanese) | [한국어](#한국어) (Korean) | [Deutsch](#deutsch) (German) | [Español](#español) (Spanish)  
+[Français](#français) (French) | [Polski](#polski) (Polish) | [Português Brasileiro](#português-brasileiro) (Portuguese-BR) | [Português de Portugal](#português-de-portugal) (Portuguese-PT) | [Русский](#русский) (Russian) | [Bahasa Indonesia](#bahasa-indonesia) (Indonesian) | [Türkçe](#türkçe) (Turkish) | [Български](#български) (Bulgarian) | [ไทย](#ไทย) (Thai) | [Magyar](#magyar) (Hungarian) | [Hindi](#हिन्दी) (Indian) | [Nederlands](#nederlands) (Dutch) | [Bengali](#বাংলা) (Bangladesh) | [正體中文版本](#正體中文版本) (Tradtional Chinese) 
 
-Cloud native technologies empower organizations to build and run scalable applications in modern, dynamic
-environments such as public, private, and hybrid clouds. Containers, service meshes, microservices, immutable
-infrastructure, and declarative APIs exemplify this approach.
+## Definition
 
-These techniques enable loosely coupled systems that are resilient, manageable, and observable. Combined with
-robust automation, they allow engineers to make high-impact changes frequently and predictably with minimal
-toil.
+Cloud native practices empower organizations to develop, build, and deploy workloads in computing environments (public, private, hybrid cloud) to meet their organizational needs at scale in a programmatic and repeatable manner. It **is characterized by loosely coupled systems that interoperate in a manner that is secure, resilient, manageable, sustainable, and observable.**
 
-The Cloud Native Computing Foundation seeks to drive adoption of this paradigm by fostering and sustaining an
-ecosystem of open source, vendor-neutral projects. We democratize state-of-the-art patterns to make these
-innovations accessible for everyone.
+Cloud native technologies and architectures typically consist of some combination  of containers, service meshes, multi-tenancy, microservices, immutable infrastructure, serverless, and declarative APIs — this list is non-exhaustive.
 
+## Benefits of Cloud Native
+
+Combined with robust automation, cloud native practices allow organizations to make high-impact changes frequently, predictably, with minimal toil and clear separation of concerns.
+
+## Focus of CNCF
+
+The Cloud Native Computing Foundation seeks to drive adoption of this paradigm by fostering and sustaining an ecosystem of open source, vendor-neutral projects. We democratize state-of-the-art patterns to make these innovations accessible for everyone.	
 
 <div dir="rtl">
 
@@ -29,6 +30,14 @@ innovations accessible for everyone.
 تسعى Cloud Native Computing Foundation إلى دفع اعتماد هذا النموذج من خلال تعزيز نظام إيكولوجي ثابت و مفتوح المصدر و محايد من البائعين. اننا نقوم بإضفاء الديمقراطية على أحدث الأنماط لجعل هذه الابتكارات متاحه للجميع.
 
 </div>
+
+## հայերեն
+
+Ամպային բնիկ տեխնոլոգիաները հնարավորություն են տալիս կազմակերպություններին ստեղծել և գործարկել մասշտաբային հավելվածներ ժամանակակից, դինամիկ միջավայրերում, ինչպիսիք են հանրային, մասնավոր և հիբրիդային ամպերը: Կոնտեյներները, սպասարկման ցանցերը, միկրոսերվիսները, անփոփոխ ենթակառուցվածքը և դեկլարատիվ API-ներն այս մոտեցման օրինակն են:
+
+Այս տեխնիկան թույլ է տալիս թույլ միացված համակարգեր, որոնք ճկուն են, կառավարելի և դիտարկելի: Համակցված ամուր ավտոմատացման հետ՝ դրանք ինժեներներին թույլ են տալիս հաճախակի և կանխատեսելի փոփոխություններ կատարել բարձր ազդեցության՝ նվազագույն ջանքերով:
+
+Cloud Native Computing Foundation-ը ձգտում է խթանել այս պարադիգմի ընդունումը՝ խթանելով և պահպանելով բաց կոդով, վաճառողներից չեզոք նախագծերի էկոհամակարգը: Մենք ժողովրդավարացնում ենք ժամանակակից օրինաչափությունները՝ այս նորամուծությունները բոլորի համար հասանելի դարձնելու համար:
 
 ## 中文版本：
 
@@ -101,11 +110,11 @@ Intencją **Cloud Native Computing Foundation** jest przyczynienie się do adopc
 
 ## Português Brasileiro:
 
-Tecnologias nativas ao cloud empoderam empresas a criarem e rodarem aplicações escaláveis em ambientes modernos e dinâmicos, como núvens públicas, privadas e híbridas. Containeres, service meshes, microsserviços, infraestruturas imutáveis e APIs declarativas são alguns exemplos dessa estratégia.
+Tecnologias *cloud native* empoderam organizações a construir e executar aplicações escaláveis em ambientes modernos e dinâmicos, tais como nuvens públicas, privadas e híbridas. Contêineres, *service meshes*, microsserviços, infraestrutura imutável e APIs declarativas exemplificam essa abordagem.
 
-Essas técnicas permitem criar sistemas de baixo acoplamento, resilientes, gerenciáveis e observáveis. Combinadas com automações robustas, elas permitem que os engenheiros façam alterações de alto impacto de forma frequente e previsível, com o mínimo de esforço.
+Essas técnicas permitem criar sistemas de baixo acoplamento que são resilientes, gerenciáveis e observáveis. Combinadas com automação robusta, elas permitem aos engenheiros fazer mudanças de alto impacto de forma frequente e previsível, com o mínimo de esforço.
 
-A Cloud Native Computing Foundation procura conduzir a adoção desse paradigma auxiliando e sustentando um ecosistema de projetos de código aberto e não atrelados a nenhum fornecedor. Nós democratizamos padrões estado-da-arte para fazer com que essas inovações sejam acessíveis a todos.
+A *Cloud Native Computing Foundation* procura impulsionar a adoção desse paradigma fomentando e sustentando um ecossistema de projetos de código aberto e não atrelados a nenhum fornecedor. Nós democratizamos padrões do estado-da-arte para tornar essas inovações acessíveis a todos.
 
 ## Português de Portugal:
 
@@ -155,11 +164,11 @@ Bu yöntemler dirençli, yönetilebilir ve gözlemlenebilir gevşek bağlı sist
 **Cloud Native Computing Foundation** açık kaynaklı ve üretici bağımsız bir ekosistemi destekleyerek ve büyüterek bu paradigmanın benimsenmesini amaçlamaktadır. Bu alandaki en son gelişmelerin herkes tarafından ulaşabilabilir olması için çalışır.
 
 ## Български:
-Технологиите присъщи за облачните услуги(Cloud Native), позволяват на организациите да изградят и оперират скалируеми приложения в модерните и силно динамични среди, като публичните облачни услуги, частни такива и от смесен тип. Контейнерите, мержовите услуги(service mesh), микроуслугите(microservices), непроменлива(статична) инфраструктура и декларативните Приложно-Програмни Интерфейси(API) подчертават този подход на работа.
+Технологиите присъщи за облачните услуги(Cloud Native), позволяват на организациите да изградят и оперират скалируеми приложения в модерните и силно динамични среди, като публичните облачни услуги, частни такива и от смесен тип. Контейнерите, мрежовите услуги(service mesh), микро-услугите(microservices), непроменлива(статична) инфраструктура и декларативните Приложно-Програмни Интерфейси(API) подчертават този подход на работа.
 
-Тези технологии позволяват отделните недиректно свързани системи да са издържливи, управляриуеми и наблюдаеми. Комбинирано с изпипана автоматизация те позволяват на инженерите да извършват големи промени, често и предвидимо с минилани пречки.
+Тези технологии позволяват отделните недиректно свързани системи да са устойчиви, управляеми и наблюдаеми. Комбинирано с изпипана автоматизация те позволяват на инженерите да извършват големи промени, често и с предвидимо минимално количество пречки.
 
-Фондацията за Cloud Native Computing цели да постигне приемственост на този подход като насърчава и подкрепя еко-система от софтуер с отворен код и проекти-необвързани неразработвани от кокретна фирма. Ние позволяваме на тези най-съвременни модели да бъдат достъпни от всеки.
+Фондацията за Cloud Native Computing цели да постигне приемственост на този подход като насърчава и подкрепя еко-система от софтуер с отворен код и проекти-необвързани неразработвани от конкретна фирма. Ние позволяваме на тези най-съвременни модели да бъдат достъпни от всеки.
 
 ## ไทย:
 เทคโนโลยีคลาวด์-เนทีฟช่วยทำให้องค์กรต่างๆสามารถสร้างและรันแอปพลิเคชั่นที่สเกลปรับขนาดได้ (scalable) ในสภาพแวดล้อมที่ทันสมัยและมีการเปลี่ยนแปลงอยู่เสมอ เช่น คลาวด์แบบพับลิค (Public) แบบไพรเวท (Private) และแบบไฮบริด (Hybrid) เป็นต้น
@@ -196,3 +205,29 @@ Deze technieken maken los-gekoppelde systemen mogelijk, die veerkrachtig, beheer
 
 De Cloud Native Computing Foundation stelt zich als doel om de adoptie van dit paradigma te stimuleren door een eco-systeem van open source en vendor-neutrale projecten aan te moedigen en te faciliteren.
 Wij democratiseren state-of-the art software ontwikkel patterns, om deze innovaties voor iedereen toegankelijk te maken.
+
+## বাংলা:
+
+ক্লাউড নেটিভ প্রযুক্তি প্রতিষ্ঠানগুলিকে আধুনিক, গতিশীল পদ্ধতিতে স্কেলেবল অ্যাপ্লিকেশন তৈরি এবং চালানোর ক্ষমতা দেয়
+পরিবেশ যেমন সরকারী, ব্যক্তিগত, এবং হাইব্রিড মেঘ। কন্টেইনার, সার্ভিস মেশ, মাইক্রোসার্ভিস, অপরিবর্তনীয়
+অবকাঠামো, এবং ঘোষণামূলক এপিআই এই পদ্ধতির উদাহরণ দেয়।
+
+এই কৌশলগুলি শিথিলভাবে সংযুক্ত সিস্টেমগুলিকে সক্ষম করে যা স্থিতিস্থাপক, পরিচালনাযোগ্য এবং পর্যবেক্ষণযোগ্য। একত্রে বা মিশ্রিত
+শক্তিশালী অটোমেশন, তারা প্রকৌশলীদেরকে ঘন ঘন এবং অনুমানযোগ্যভাবে ন্যূনতম সাথে উচ্চ-প্রভাব পরিবর্তন করতে দেয়
+পরিশ্রম
+
+ক্লাউড নেটিভ কম্পিউটিং ফাউন্ডেশন এই দৃষ্টান্তটি গ্রহণ করার চেষ্টা করে
+ওপেন সোর্স, বিক্রেতা-নিরপেক্ষ প্রকল্পের বাস্তুতন্ত্র। আমরা এইগুলি তৈরি করার জন্য অত্যাধুনিক নিদর্শনগুলিকে গণতন্ত্রীকরণ করি৷
+প্রত্যেকের জন্য অ্যাক্সেসযোগ্য উদ্ভাবন।
+
+## 正體中文版本
+
+### 定義
+雲端原生的實踐賦予組織能夠在運算環境中（公有雲、私有雲、混合雲）以規模化、可程式化和可重複的方式開發、構建和部署工作負載，以滿足其組織需求。其特徵為鬆耦合的系統，這些系統以安全、彈性、可管理、可持續和可觀察的方式相互操作。
+雲端原生技術和架構通常由容器、服務網格、多租戶、微服務、不可變基礎設施、無伺服器和聲明式 API 等組成——此列表並非全部。
+
+### 雲端原生的益處
+搭配穩固的自動化，雲端原生的實踐讓組織以最少的勞動、清楚分離關注點，就能頻繁、可預測地進行重大變更。
+
+### CNCF關注點
+雲端原生運算基金會（Cloud Native Computing Foundation）旨在透過培育和維持一個開放原始碼、廠商中立的專案生態系統，以推動此範式的採用。我們將最先進的模式民主化，使這些創新對每個人都可用。
